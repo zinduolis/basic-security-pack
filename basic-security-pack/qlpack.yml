@@ -1,0 +1,5 @@
+name: zinduolis/basic-security-pack
+version: 0.0.1
+defaultSuiteFile: default.qls
+dependencies:
+  codeql/javascript-all: "*"
